@@ -77,5 +77,5 @@ Update `<data path>` in the script to point to your BBQ dataset CSV file, then r
 
 ```bash
 pip install -r requirements.txt
-python run_bbq_quant.py or run_bbq.py
+python run_bbq.py
 
