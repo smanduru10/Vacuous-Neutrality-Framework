@@ -66,8 +66,12 @@ This script expects a preprocessed CSV file with the following columns:
 - `answer_info`: dictionary mapping answers to stereotype annotations
 
 You can use `datasets.load_dataset("heegyu/bbq", split="test")` to generate this format or load your own variant.
+---
+
 You can use `datasets.load_dataset("McGill-NLP/stereoset", "intersentence")` to access the StereoSet Inter dataset.
+---
 You can use `datasets.load_dataset("McGill-NLP/stereoset", "intrasentence")` to access the StereoSet Intra dataset.
+---
 You can use `datasets.load_dataset("tau/commonsense_qa")` to access the CommonSenseQA dataset.
 ---
 
