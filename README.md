@@ -45,13 +45,14 @@ This repository contains code to evaluate instruction-tuned language models (alo
 │   │   ├── label_type/
 │   │   └── bias_type/
 └── data/
-    └── bbq_data.csv                 # A sample of preprocessed BBQ dataset
+│   └── bbq_data.csv                 # A sample of preprocessed BBQ dataset
+│   └── crows_pairs_anonymized.csv   # CrowS-Pairs Dataset CSV File
 │
 └── crowspairs.ipynb                 # CrowS-Pairs Notebook
 └── stereoSet_inter.ipynb            # StereoSet - Inter Notebook
 └── stereoSet_intra.ipynb            # StereoSet - Intra Notebook
 └── finetune_csqa.ipynb              # Finetuning Code on CommonSenseQA
-└── crows_pairs_anonymized.csv       # CrowS-Pairs Dataset CSV File
+
 ```
 
 
