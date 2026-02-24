@@ -1,3 +1,6 @@
+# Accepted at EACL 2026
+https://arxiv.org/abs/2506.08487
+
 # Bias and Competence Evaluation on the BBQ Dataset
 
 This repository contains code to evaluate instruction-tuned language models (along with quantized variants) on the **BBQ (Bias Benchmark for Question Answering)** dataset. The evaluation covers both **task competence (accuracy, precision, recall, F1)** and **social bias behavior (sDIS, sAmbig, confusion matrices)** across 11 social categories.
