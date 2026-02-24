@@ -1,5 +1,5 @@
 # Accepted at EACL 2026
-https://arxiv.org/abs/2506.08487
+Paper: https://arxiv.org/abs/2506.08487
 
 # Bias and Competence Evaluation on the BBQ Dataset
 
